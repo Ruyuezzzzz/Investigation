@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>That's the right questions</title>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+</head>
+
+<body>
+  <h1>Yay!</h1>
+  <p>You picked the right questions</p>
+  <button class="ques" id="ques1" type="button">oscars</button>
+  <button class="ques" id="ques2"type="button" >diversity</button>
+  <button class="ques" id="ques3" type="button" >films</button>
+  <h2 id="question-text">
+    <span class="highlight"></span>
+  </h2>
+</body>
+
+<script>
+$(document).ready(function(){
+
+  $('button').click(function(event){
+
+    var choice2=$(this).text();
+    console.log(choice2)
+
+    $.ajax({
+      url:"json.json",
+      success: function(response) {
+        console.log(response)
+
+        for(var i = 0; i < response.questions.length; i++) {
+
+          $('#question-text').text(response.questions[i][choice2]);
+
+        };
+      }
+    });
+    });
+  });
+</script>
+</html>
+
+<!--DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>That's the right questions</title>
+</head>
+<body>
+    <div id="placeholder"></div>
+    <script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+
+    <!script>
+    $.getJSON("data.json", function(data) {
+        console.log(data);
+        $("placeholder").append(data.questions[0]);
+    });
+  </script>
+
+    <script>
+    $(document).ready(function () {
+      $.getJSON('data.json', function(data) {
+        var output="<ul>";
+        console.log(data);
+        for (var i in data) {
+            output+="<li>" + data[i] + "</li>";
+            console.log(output)
+        }
+        output+="</ul>";
+        document.getElementById("placeholder").innerHTML=output;
+      });
+    });
+</script>
+</body>
+</html-->

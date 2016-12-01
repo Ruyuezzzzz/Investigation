@@ -1,0 +1,264 @@
+/*Responsive Design CSS Style*/
+
+/* Default styles */
+
+body {
+	width: 85%;
+	margin: auto;
+  background-repeat: no-repeat;
+  background-size:100% 100%;
+}
+
+/* Default styles first then media queries */
+
+@media screen and (min-device-width: 200px) and (max-width: 750px) {
+  body {
+  	   width: 100%;
+	}
+  #buttons {
+    width: 100%;
+  }
+  .button {
+    font-size: 14px;
+  }
+  #second_container {
+    padding-left: 27%;
+    padding-top: 5%;
+  }
+  #next_button {
+    width: 50%;
+    font-size: 14px;
+  }
+	#third_container {
+    padding-left: 10%;
+    padding-top: 5%;
+		padding-bottom: 5%;
+  }
+  #trend_button {
+    width: 50%;
+    font-size: 14px;
+  }
+
+  /*Video Page CSS Style*/
+  div#question {
+    position: absolute;
+		width: auto;
+		height: auto;
+    top: 0;
+    left: 0;
+  }
+	h2 {
+		font-size: 20px;
+	}
+  .fullscreen-bg {
+    width: auto;
+    height: auto;
+  }
+  .fullscreen-bg__video {
+    position: relative;
+    margin-top: 35%;
+    width: 100%;
+    height: auto;
+  }
+  div#sidebar-wrapper {
+    position: relative;
+		margin-left: auto;
+    bottom: 5%;
+    width: auto;
+    height: auto;
+  }
+  div#video-selector {
+    position: relative;
+    text-align: center;
+    margin-top: 75%;
+    margin-bottom: 1%;
+    width: auto;
+    height: auto;
+  }
+  div.anonymous-person {
+    width: 40px;
+    height: 40px;
+  }
+  footer {
+    position: relative;
+    margin-top: 5%;
+    text-align: center;
+  }
+  .btn {
+		margin-left: auto;
+    width: auto;
+    height: auto;
+  }
+	#btn2 {
+	  margin-left: auto;
+	  margin-top: 5%;
+	}
+}
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+  body {
+		width: 95%;
+	}
+  #buttons {
+    width: 100%;
+  }
+  .button {
+    font-size: 14px;
+  }
+  #second_container {
+    padding-left: 27%;
+    padding-top: 5%;
+  }
+  #next_button {
+    width: 50%;
+    font-size: 14px;
+  }
+	#third_container {
+    padding-left: 10%;
+    padding-top: 5%;
+		padding-bottom: 5%;
+  }
+  #trend_button {
+    width: 50%;
+    font-size: 14px;
+  }
+
+  /*Video Page CSS Style*/
+  div#question {
+    position: absolute;
+		width: auto;
+		height: auto;
+    top: 0;
+    left: 0;
+  }
+	h2 {
+		font-size: 20px;
+	}
+  .fullscreen-bg {
+    width: auto;
+    height: auto;
+  }
+  .fullscreen-bg__video {
+    position: relative;
+    margin-top: 15%;
+    width: 100%;
+    height: auto;
+  }
+  div#sidebar-wrapper {
+    position: relative;
+		margin-left: auto;
+    margin-top: 5%;
+    bottom: 5%;
+    width: auto;
+    height: auto;
+  }
+  div#video-selector {
+    position: relative;
+    text-align: center;
+    margin-top: 62%;
+    margin-bottom: 1%;
+    width: auto;
+    height: auto;
+  }
+  div.anonymous-person {
+    width: 50px;
+    height: 50px;
+  }
+  footer {
+    position: relative;
+		margin-left: auto;
+    margin-top: 2%;
+  }
+  .btn {
+    width: auto;
+    height: auto;
+  }
+	#btn2 {
+	  margin-left: auto;
+	  margin-top: 5%;
+	}
+}
+
+@media only screen and (min-device-width: 800px) and (max-device-width: 1200px) {
+  body {
+		width: 90%;
+	}
+  #buttons {
+    width: 100%;
+  }
+  .button {
+    font-size: 14px;
+  }
+  #second_container {
+    padding-left: 27%;
+    padding-top: 5%;
+  }
+  #next_button {
+    width: 50%;
+    font-size: 14px;
+  }
+	#third_container {
+    padding-left: 10%;
+    padding-top: 5%;
+		padding-bottom: 5%;
+  }
+  #trend_button {
+    width: 50%;
+    font-size: 14px;
+  }
+
+  /*Video Page CSS Style*/
+  div#question {
+    position: absolute;
+		width: auto;
+		height: auto;
+    top: 0;
+    left: 0;
+  }
+	h2 {
+		font-size: 20px;
+	}
+  .fullscreen-bg {
+    width: auto;
+    height: auto;
+  }
+  .fullscreen-bg__video {
+    position: relative;
+    margin-top: 15%;
+    width: 100%;
+    height: auto;
+  }
+  div#sidebar-wrapper {
+    position: relative;
+		margin-left: auto;
+    bottom: 5%;
+    width: auto;
+    height: auto;
+  }
+  div#video-selector {
+    position: relative;
+    text-align: center;
+    margin-top: 55%;
+    margin-bottom: 1%;
+    width: auto;
+    height: auto;
+  }
+  div.anonymous-person {
+    width: 60px;
+    height: 60px;
+  }
+  footer {
+    position: relative;
+		margin-left: auto;
+    margin-top: 5%;
+    text-align: center;
+  }
+  .btn {
+    width: auto;
+    height: auto;
+  }
+	#btn2 {
+	  margin-left: auto;
+	  margin-top: 5%;
+	}
+}

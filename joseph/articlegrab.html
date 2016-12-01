@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    div#inbox {
+      width: 500px;
+      border: 1px black solid;
+      border-radius: 4px;
+      padding: 20px;
+    }
+  </style>
+
+</head>
+<body>
+  <div id="inbox">
+    <p id="para"></p>
+    <ul id="keywords-list"></ul>
+    <a id="source-link"></a>
+  </div>
+  <input type="button" value="next" onclick="skipAhead()">
+<script>
+
+var xhttp = new XMLHttpRequest();
+xhttp.open("GET", "cards.json", false);
+xhttp.send();
+
+stuff = JSON.parse(xhttp.responseText);
+console.log(stuff[5])
+console.log(stuff[2])
+
+count = 0
+para = document.getElementById("para");
+text = document.createTextNode(stuff[count].content);
+a = document.getElementById("source-link");
+keywords = document.getElementById("keywords-list")
+link = document.createTextNode(stuff[count].source)
+a.appendChild(link)
+a.setAttribute("href", stuff[count].url)
+para.appendChild(text);
+
+for (i=0; i<stuff[count].keywords.length - 1; i++) {
+  listItem = document.createElement('li')
+  listItem.innerHTML = stuff[count].keywords[i]
+  keywords.appendChild(listItem)
+}
+
+function skipAhead() {
+  count += 1
+  keywords.innerHTML = ""
+  text = document.createTextNode(stuff[count].content)
+  link = document.createTextNode(stuff[count].url)
+  a.innerHTML = (stuff[count].source)
+  a.setAttribute("href", stuff[count].url)
+  para.innerHTML = stuff[count].content
+
+  for (i=0; i<stuff[count].keywords.length - 1; i++) {
+    listItem = document.createElement('li')
+    listItem.innerHTML = stuff[count].keywords[i]
+    keywords.appendChild(listItem)
+  }
+};
+
+</script>
+</body>
+</html>

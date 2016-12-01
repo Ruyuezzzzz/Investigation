@@ -1,0 +1,459 @@
+activity and adventure: 1 
+africa: 1 
+alan johnson: 1 
+allergies: 1 
+amazon: 1 
+andorra: 1 
+anfield: 1 
+animal behaviour: 1 
+animal welfare: 1 
+anish kapoor: 1 
+apple: 5 
+apps: 1 
+archery: 1 
+architecture: 1 
+art: 3 
+art and design: 1 
+article: 1 
+ashley armstrong: 1 
+asia pacific: 1 
+atletico madrid: 1 
+australia: 2 
+australia news: 2 
+australian television: 1 
+austria: 2 
+ba luxury greece list 2: 1 
+badminton: 1 
+baltimore: 1 
+ban ki moon: 1 
+bangladesh: 4 
+barack obama: 2 
+barbara windsor: 1 
+bayern munich: 1 
+bbc: 2 
+beauty: 3 
+beauty basics: 2 
+beekeeping: 1 
+beer: 1 
+bees: 1 
+benedict cumberbatch: 1 
+benefit: 1 
+benefits: 1 
+bernard jenkin: 1 
+bernie sanders: 1 
+beyoncé: 2 
+bhs: 5 
+bills: 1 
+biochemistry and molecular biology: 1 
+blondie: 1 
+blood: 2 
+books: 2 
+booz allen hamilton: 2 
+borders: 1 
+bos new content: 1 
+boxing: 1 
+brazil: 1 
+brexit: 3 
+british airways: 1 
+business: 8 
+cabinet office: 2 
+cancer: 1 
+capital punishment: 1 
+cars: 2 
+cars advice: 1 
+carsten höller: 1 
+castleford: 1 
+cats: 1 
+censorship: 1 
+champions league: 3 
+channel 4: 1 
+channel nine: 1 
+chernobyl: 4 
+child refugees: 2 
+children: 3 
+china: 1 
+cia: 1 
+cities: 1 
+claudio ranieri: 1 
+climate change scepticism: 1 
+cockroaches: 1 
+comment: 5 
+community engagement: 1 
+commuting: 1 
+companies: 2 
+computing: 1 
+conservation: 1 
+conservative party: 1 
+consumer affairs: 2 
+continuity ira: 1 
+countryside: 1 
+credit cards: 1 
+crime: 4 
+culture: 15 
+culture obituaries: 1 
+cycling: 1 
+daisy buchanan: 1 
+david cameron: 7 
+dax: 2 
+deforestation: 1 
+denmark europe: 1 
+department of health: 2 
+depression: 1 
+design: 1 
+destinations: 1 
+diego simeone: 1 
+dilma rousseff: 1 
+divorce: 1 
+doctors without borders: 4 
+dominic chappell: 2 
+donald trump: 4 
+dow jones industrial average: 2 
+downton abbey: 1 
+drones (non military): 1 
+drugs: 1 
+earthquake: 2 
+education: 2 
+egypt protests: 2 
+electricity bills: 1 
+emoji: 2 
+energy: 1 
+energy bills: 1 
+entertainment: 1 
+environment: 1 
+eritrea: 1 
+estate: 2 
+eu referendum: 1 
+euro: 1 
+euro 2016: 1 
+europa league: 1 
+europe: 11 
+europe hotels: 1 
+european union: 3 
+eurozone: 3 
+evolution: 1 
+exercise: 1 
+fa cup: 1 
+facebook: 6 
+family holidays: 1 
+fashion: 3 
+fashion news: 2 
+fast cars: 1 
+fbi: 2 
+fc bayern munich: 1 
+female genital mutilation (fgm): 1 
+feminism: 2 
+festivals: 1 
+fiction: 2 
+filipina: 2 
+flowers: 1 
+folk music: 1 
+food and drink: 3 
+football: 7 
+football tactics: 1 
+ford: 2 
+foreign office: 2 
+formula one: 1 
+formula one 2016: 1 
+france: 2 
+frank field: 3 
+freekesha: 2 
+fruit and vegetables: 2 
+fun in the corners: 1 
+fun in the sun: 1 
+fund management: 1 
+gagging: 2 
+game of thrones: 1 
+gardening: 2 
+gas: 1 
+gas bills: 1 
+george osborne: 1 
+george rr martin: 1 
+germany: 1 
+global development: 1 
+golf: 1 
+google: 3 
+google doodle: 1 
+great british bake off: 1 
+green party: 1 
+health: 4 
+healthy food: 3 
+heathrow airport: 2 
+heidi allen: 2 
+helen yemm: 1 
+herbs: 1 
+hillsborough: 2 
+hillsborough disaster: 3 
+hillsborough inquests: 2 
+hillsborough stadium: 2 
+hip replacements: 1 
+hockey: 1 
+home: 1 
+home office: 1 
+hotels: 1 
+hotels in italy: 1 
+household bills: 1 
+human rights: 1 
+humans tv series: 1 
+immigration: 1 
+indonesia: 2 
+instagram: 1 
+interest rates: 1 
+internet: 1 
+investing: 1 
+iphone: 3 
+iplayer: 1 
+ipod: 1 
+islamic state: 1 
+israel: 2 
+italian food and drink: 1 
+italy: 2 
+itv: 1 
+ivan hewett: 1 
+jenny diski: 1 
+jeremy corbyn: 4 
+jeremy hunt: 1 
+jobs: 2 
+john mcdonnell: 1 
+jordan: 2 
+jurgen klopp: 1 
+ken livingstone: 1 
+kesha records first song in a year and half with zedd: 2 
+la liga: 2 
+labour: 4 
+labour party: 4 
+labours anti semitism: 2 
+lancashire: 1 
+landon meier: 2 
+language: 4 
+lavender: 1 
+law: 1 
+lawns: 1 
+lawsuit: 2 
+lgbt: 2 
+life: 4 
+life and style: 3 
+lifestyle: 8 
+lisa nandy: 1 
+liverpool: 8 
+liverpool fc: 4 
+livingstone: 1 
+liz kendall: 1 
+lloyds banking group: 1 
+london: 2 
+loudon wainwright iii: 1 
+luxury property: 2 
+lyft: 2 
+m and g list 3: 1 
+madrid: 3 
+manus island: 2 
+mark zuckerberg: 1 
+markets: 2 
+martin chilton: 1 
+mashrou leila: 2 
+masks: 2 
+maternity: 2 
+media: 1 
+men: 1 
+mental health: 1 
+metropolitan police: 1 
+michael jackson: 1 
+middle east: 1 
+middle east and north africa: 2 
+military: 1 
+ministry of defence: 1 
+mobile phones: 1 
+modern pentathlon: 1 
+money: 5 
+money calculators: 1 
+more than half of prince estate will go towards taxes: 2 
+mortgages: 1 
+motor sport: 1 
+msf: 2 
+mushrooms: 2 
+music: 8 
+music industry: 1 
+nasdaq: 2 
+national security: 2 
+national theatre: 1 
+nature: 1 
+naz shah: 4 
+negra: 2 
+netflix: 1 
+new york: 1 
+news: 24 
+newspapers: 1 
+nhs: 3 
+nick clegg: 1 
+nikkei 225: 2 
+northern ireland: 1 
+northern irish politics: 1 
+northumbria university: 1 
+npower: 1 
+nsa: 3 
+nuclear: 2 
+nuclear disaster: 2 
+obama administration: 1 
+obituaries: 2 
+oceans: 1 
+ofsted: 1 
+oil price: 2 
+oklahoma: 1 
+oliver stone: 1 
+olympic games: 1 
+olympic games 2016: 2 
+olympics: 2 
+opinion: 4 
+orlando pride: 2 
+painkillers: 1 
+papua new guinea: 2 
+parents and parenting: 1 
+paris attacks: 2 
+pensions and retirement: 1 
+personal banking: 1 
+peter oneill: 2 
+photography: 5 
+police: 5 
+politics: 10 
+pork: 1 
+portal: 7 
+portugal: 1 
+pound: 2 
+poverty: 1 
+prince: 3 
+prisons and probation: 1 
+problem solving: 1 
+property abroad: 2 
+protest: 1 
+psychology: 1 
+public leaders network: 1 
+rabbits: 1 
+race issues: 1 
+rape: 1 
+real sociedad: 2 
+refugee crisis europe: 2 
+refugees: 3 
+remembering prince: 2 
+rescue dog: 2 
+retail: 2 
+retail and consumer industry: 1 
+review: 1 
+rio: 1 
+rio olympics 2016: 1 
+rita ora: 1 
+road transport: 1 
+royal mail: 1 
+royal shakespeare company: 1 
+sailing: 1 
+saudi arabia: 1 
+saudi arabia island sale: 2 
+schools: 1 
+science: 6 
+science museum: 1 
+scotland: 5 
+scottish national party (snp): 1 
+secondary education: 1 
+secondary schools: 1 
+sex: 2 
+shanghai composite: 2 
+sheffield: 1 
+sheffield wednesday fc: 1 
+shopping: 1 
+siblings: 2 
+siân berry: 1 
+sleep: 3 
+smartphones: 1 
+snacks: 1 
+snowden: 3 
+social networking: 1 
+social news: 10 
+society: 6 
+software: 1 
+solitary confinement : 1 
+sony: 2 
+soup: 1 
+south and central asia: 1 
+southern italy andsicily: 1 
+space: 1 
+sport: 6 
+sports show list 2: 1 
+spring food and drink: 1 
+steel: 1 
+steel industry: 1 
+stella magazine: 1 
+sugar: 1 
+sunday roast: 1 
+surrogacy: 1 
+surveillance: 2 
+sustainable development: 1 
+swimming: 1 
+syria: 2 
+syria conflict: 2 
+table tennis: 1 
+taekwondo: 1 
+tate britain: 2 
+tax: 1 
+teaching: 1 
+team gb: 2 
+technology: 6 
+television: 4 
+terrorism: 1 
+thailand: 5 
+thailand asia: 1 
+the filter: 1 
+the football association: 1 
+the sun: 1 
+things: 1 
+thomas muller: 1 
+top 10s: 1 
+top gear: 4 
+transport: 1 
+transport policy: 1 
+travel: 6 
+travel competitions: 1 
+travel lists: 1 
+travel news: 1 
+triathlon: 1 
+tyson fury: 1 
+uber: 2 
+uk: 1 
+uk economy: 2 
+uk news: 17 
+uk politics: 16 
+uk science: 2 
+uk sport: 1 
+united arab emirates: 2 
+us army: 2 
+us crime: 1 
+us election: 1 
+us federal reserve: 2 
+us foreign policy: 1 
+us news: 3 
+us politics: 2 
+us prisons: 1 
+us weather: 1 
+usa: 1 
+vaccines and immunisation: 1 
+vauxhall: 2 
+vegetarian food and drink: 1 
+venice film festival: 1 
+victoria beckham: 1 
+visit norway list 2: 1 
+vladimir putin: 1 
+wales: 2 
+weightlifting: 1 
+west yorkshire: 1 
+western australia: 1 
+wildlife: 1 
+william shakespeare: 1 
+windows: 3 
+winston churchill: 1 
+wirecopy: 1 
+women: 6 
+women in combat: 2 
+women in the boardroom: 1 
+work and careers: 1 
+world news: 23 
+wrestling: 1 
+xi jinping: 1 
+yvette cooper: 2 
+zedd: 2 

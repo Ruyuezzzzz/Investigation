@@ -1,0 +1,15 @@
+{
+"facts": [
+          { "youngest Oscar winner": "The youngest Oscar winner was Tatum O'Neal, who won Best Supporting Actress for Paper Moon (1973) when she was only 10 years old. Shirley Temple won the short-lived Juvenile Award at 6 years old.", "name": "The name 'Oscar' was given by Margaret Herrick, the Academy librarian. On seeing the Oscar statuettes, in 1931, she remarked 'Why it looks like my Uncle Oscar!' Her uncle's full name, by the way, was Oscar Pierce."},
+          {  "name": "The name 'Oscar' was given by Margaret Herrick, the Academy librarian. On seeing the Oscar statuettes, in 1931, she remarked 'Why it looks like my Uncle Oscar!' Her uncle's full name, by the way, was Oscar Pierce."},
+          {  "Oscar statuette":"The Oscar statuette weighs 6.75 pounds, and it is 13.5 inches tall."},
+
+          {  "refugee-crisis": "Which European (EU) countries receive the most asylum applications? Why?"},
+          {  "asylum-seekers": "In the United Kingdom, which nationalities do you think had the highest number of applications? Why?"},
+          {  "application-outcomes": "What do you think is the outcome for asylum seekers applications?"},
+        
+          {  "oscars": "Do you think that Oscars is too white?"},
+          {  "diversity": "What reasons do you think contribute to the lack of diversity in Oscars?"},
+          {  "films": "Will you be more likely to see a film with more diverse actors and what is your favorite film last year?"}
+        ]
+}

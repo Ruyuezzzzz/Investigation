@@ -1,0 +1,646 @@
+2016 us election: 1 
+academies: 1 
+active: 1 
+adil rashid: 1 
+afc bournemouth: 1 
+afghanistan: 1 
+afghanistan cricket team: 1 
+airstrieks: 1 
+airstrikes: 1 
+alex hales: 1 
+alphabet: 2 
+alphago: 2 
+amazon: 2 
+amazon.com: 1 
+american billionaire: 1 
+anders behring breivik: 1 
+andy burnham: 1 
+angela merkel: 2 
+anglicanism: 1 
+animal attack: 1 
+animal welfare: 1 
+animals: 2 
+anita brookner: 1 
+ankara explosion: 1 
+anomalisa: 1 
+anonymous: 1 
+anti muslim: 1 
+anxiety: 1 
+architecture: 1 
+arms: 1 
+army: 1 
+arsenal fc: 3 
+arsene wenger: 3 
+art: 1 
+art and design: 6 
+artificial intelligence: 1 
+artificial intelligence (ai): 2 
+artists: 1 
+asia: 1 
+asia pacific: 3 
+association of tennis professionals: 1 
+aston villa fc: 1 
+atlético madrid: 1 
+atp: 1 
+attack: 4 
+aung san suu kyi: 1 
+australia cricket team: 1 
+australia news: 1 
+author: 1 
+authors: 1 
+bangladesh cricket team: 1 
+banking: 1 
+banks and building societies: 1 
+barack obama: 1 
+bashar al assad: 2 
+bataclan: 1 
+bayer leverkusen: 1 
+bayern munich: 1 
+bbc: 5 
+bbc2: 1 
+beach: 3 
+beauty: 3 
+beauty news: 1 
+belfast: 2 
+belgium: 1 
+belvoir hunt: 1 
+ben stokes: 1 
+benedict cumberbatch: 1 
+berlin: 3 
+bernie sanders: 1 
+best looks: 1 
+bffeatures: 1 
+birdstrike: 1 
+birmingham: 3 
+bmw: 2 
+body: 2 
+body image: 1 
+body positivity: 1 
+books: 6 
+boris johnson: 2 
+boston: 1 
+boston chinatown: 1 
+brazil: 2 
+breaking things: 1 
+breck bednar: 1 
+brexit: 4 
+brixton: 1 
+budget: 9 
+budget 2016: 1 
+burma: 1 
+business: 7 
+business magnate: 1 
+business top stories two: 1 
+buy me: 1 
+cake: 1 
+camp nou: 1 
+campaigning journalism: 1 
+camper van: 1 
+canada: 2 
+capital gains tax: 1 
+car bomb: 3 
+care workers: 1 
+cars: 5 
+celebrity: 1 
+celebrity style: 1 
+cesar millan: 1 
+champions league: 1 
+charities: 2 
+charlie kaufman: 1 
+chelsea fc: 2 
+cheltenham: 2 
+cheltenham festival: 2 
+cheltenham festival 2016: 1 
+cheltenham races: 2 
+chernobyl nuclear disaster: 1 
+cheryl cole: 1 
+chicken: 1 
+child protection: 2 
+children: 7 
+china: 3 
+chinatown: 1 
+chris jordan: 1 
+christian eriksen: 1 
+christianity: 1 
+cities: 1 
+classic cars: 1 
+claudio ranieri: 1 
+climate change: 1 
+comedy: 1 
+comment: 2 
+commercial property: 1 
+commercial vehicle guide: 1 
+computing: 3 
+conflict and development: 1 
+consciousness: 1 
+conservation: 1 
+conservatives: 3 
+consumer affairs: 1 
+consumer goods: 1 
+cork: 1 
+corporate social responsibility: 1 
+corruption: 1 
+country music: 1 
+cremona: 1 
+cricket: 6 
+cricket world cup: 1 
+crime: 2 
+crocodile: 1 
+cross lake first nation: 1 
+cruises: 1 
+crystal palace fc: 1 
+culture: 20 
+currencies: 1 
+dalston: 1 
+damn daniel: 1 
+daniel lara: 1 
+daniele bracciali: 1 
+darlington citadel: 1 
+data and computer security: 1 
+david cameron: 5 
+david foster wallace: 1 
+david willey: 1 
+death and dying: 1 
+deepmind: 1 
+dele alli: 1 
+diego costa: 1 
+digital music and audio: 1 
+dilma rousseff: 1 
+divorce: 1 
+dog: 3 
+dog whisper: 1 
+donald john trump: 1 
+donald trump: 5 
+drug war: 1 
+drugs: 2 
+drugs in sport: 1 
+e commerce: 1 
+eagles of death metal: 1 
+easter: 1 
+economic policy: 1 
+economics: 2 
+economy: 3 
+eddie jones: 1 
+eden hazard: 1 
+education: 2 
+egyptair: 1 
+el chapo: 3 
+el doctorow: 1 
+elections: 1 
+emma thompson: 1 
+england cricket team: 4 
+england rugby union team: 1 
+environment: 3 
+eoin morgan: 1 
+erin baker: 1 
+ethics: 1 
+eu: 2 
+eu referendum: 2 
+eu referrendum: 1 
+eu reforendum: 1 
+eu treaty: 1 
+europa league: 1 
+europe: 13 
+european club football: 1 
+european refugee crisis: 2 
+european union news: 1 
+european union referendum: 1 
+everton fc: 1 
+expat health: 1 
+facebook: 2 
+family: 7 
+fantasy: 1 
+far right: 3 
+farming: 1 
+fashion: 6 
+fashion brands0: 1 
+feminism: 1 
+feminist library: 1 
+fencing: 1 
+fernando alonso: 1 
+ferrari: 1 
+festivals: 1 
+fiction: 3 
+fife: 1 
+film: 4 
+firefighters: 1 
+first drives: 1 
+florida: 1 
+flowers: 2 
+food: 3 
+food and drink: 4 
+food bank: 1 
+football: 9 
+ford: 1 
+formula 1: 1 
+fox hunt: 1 
+france: 3 
+france rugby union team: 1 
+francine raymond: 1 
+franco zeffirelli: 1 
+francois truffaut: 1 
+fresh meat: 1 
+fruit and vegetables: 2 
+fund management: 2 
+gadgets: 1 
+gallery: 1 
+gardening: 3 
+gardens to visit: 1 
+geneva: 1 
+gentrification: 2 
+george osborne: 6 
+germany: 6 
+global development: 2 
+global teacher prize: 1 
+go: 2 
+gofundme: 1 
+google: 3 
+grand bassam: 1 
+grayson perry: 1 
+greater manchester: 1 
+greece: 2 
+greenhouse gas emissions: 1 
+grosvenor: 1 
+guide: 1 
+gun crime: 1 
+haas f1 team: 1 
+hacking: 1 
+hair: 1 
+hanan al hroub: 1 
+happy valley: 3 
+harassment: 3 
+harry kane: 2 
+headphones: 1 
+health: 5 
+healthy eating: 1 
+healthy food: 1 
+heathrow airport: 1 
+heritage: 1 
+high speed three: 1 
+hillary clinton: 1 
+homelessness: 1 
+homes: 4 
+honda: 2 
+horse racing: 1 
+horse racing tips: 1 
+hot migrants: 1 
+house prices: 2 
+household bills: 1 
+housing: 1 
+how to grow: 2 
+htin kyaw: 1 
+ian marber: 1 
+icc world twenty20: 4 
+illegal wildlife trade: 1 
+illinois: 1 
+illustration: 1 
+immigration and asylum: 1 
+in the news: 1 
+income tax: 1 
+india cricket team: 3 
+indie: 1 
+indigenous: 1 
+inflation: 1 
+inheritance tax: 2 
+instagram: 3 
+institute for fiscal studies: 1 
+international committee of the red cross (icrc): 1 
+international tennis federation: 1 
+internet: 4 
+internet culture: 1 
+internet security: 2 
+investing: 2 
+investment ideas: 1 
+ireland: 1 
+isas: 2 
+isis: 3 
+isps: 1 
+israel: 2 
+italian food and drink: 1 
+italy: 3 
+italy football team: 1 
+itf: 1 
+ivory coast: 2 
+jackie kay: 1 
+james anderson: 1 
+jamie vardy: 2 
+japan: 3 
+jason roy: 1 
+javier mascherano: 1 
+jeans: 1 
+jenson button: 1 
+jeremy corbyn: 1 
+jesse hughes: 1 
+jg ballard: 1 
+jisas: 1 
+joe root: 1 
+john kasich: 1 
+john kerry: 1 
+john terry: 1 
+jordan: 1 
+jos buttler: 1 
+jose mourinho: 1 
+junior doctor: 1 
+justin trudeau: 1 
+justin welby: 1 
+juventus: 1 
+kate del castillo: 1 
+katy young: 1 
+ken loach: 1 
+king power stadium: 1 
+knife crime: 1 
+kurdish militants: 1 
+labour: 5 
+law: 4 
+lebanon: 2 
+lee sedol: 2 
+legal highs: 1 
+leicester city: 2 
+leicester city fc: 3 
+lewis hamilton: 3 
+lgbt rights: 1 
+liam plunkett: 1 
+liberal democrats: 1 
+libor: 1 
+life: 5 
+life and style: 7 
+lionel messi: 1 
+liverpool: 1 
+liverpool fc: 1 
+local government: 2 
+local politics: 1 
+london: 3 
+long term care: 1 
+lotus f1 team: 1 
+louisa symington mills: 1 
+macedonia: 2 
+manchester: 1 
+manchester city fc: 1 
+manchester united: 1 
+manchester united fc: 1 
+manlio bruni: 1 
+manor marussia f1 team: 1 
+marco rubio: 1 
+maria sharapova: 3 
+martin chilton: 2 
+match fixing: 1 
+mauricio pochettino: 1 
+mayoral elections: 1 
+mclaren: 1 
+media: 6 
+men: 4 
+men's fashion: 1 
+mental health: 1 
+mercedes amg petronas f1 team: 1 
+mercedes benz: 2 
+metropolitan police: 1 
+mexico: 1 
+michelle elman: 1 
+mick brown: 1 
+microsoft: 1 
+middle east and north africa: 4 
+migrant crisis: 2 
+migration: 1 
+mikhail lesin: 1 
+mini: 1 
+missouri: 1 
+moeen ali: 1 
+monarchy: 1 
+money: 10 
+motoring: 1 
+music: 6 
+musicals: 1 
+myanmar: 2 
+myanmar elections: 1 
+national insurance: 1 
+national theatre: 1 
+nationalist: 1 
+native american: 1 
+new zealand cricket team: 3 
+newcastle united fc: 2 
+news: 2 
+news topics: 1 
+neymar: 1 
+nick clegg: 1 
+nico rosberg: 1 
+nigeria: 1 
+north america: 1 
+north carolina: 1 
+northern ireland: 1 
+norway: 2 
+norwich city fc: 1 
+nutrition: 1 
+oceans: 1 
+ohio: 1 
+oil: 1 
+okinawa: 1 
+older people: 1 
+olivier giroud: 1 
+one direction: 1 
+online dating: 1 
+online speech: 1 
+opera: 2 
+opinions about an eu referendum: 1 
+orhan pamuk: 1 
+over by over reports: 1 
+pakistan cricket team: 1 
+palestine: 1 
+palestinian territories: 1 
+parents and parenting: 1 
+paris: 4 
+paris attacks: 3 
+paul pogba: 1 
+pcwb office tech 1: 1 
+pensions: 1 
+pensions and retirement: 1 
+phone hacking: 1 
+photography: 4 
+picture galleries: 1 
+pictures: 5 
+pig: 1 
+pimicikamak: 1 
+poetry: 1 
+poland: 1 
+police: 7 
+politician: 1 
+politics: 9 
+poll for eu referendum: 1 
+pop and rock: 3 
+poverty: 1 
+premier league: 7 
+presidential candidate: 1 
+press intrusion: 1 
+prince william: 1 
+privacy: 1 
+privacy and the media: 1 
+problem solving: 1 
+property: 3 
+property abroad: 1 
+protest: 1 
+race issues: 2 
+racing: 2 
+radio times: 1 
+radiohead: 1 
+real estate: 1 
+recipe: 1 
+reece topley: 1 
+refugees: 7 
+relationships: 1 
+religion: 1 
+republican party: 1 
+retail industry: 2 
+reunion: 1 
+review: 1 
+rio de janeiro: 1 
+road transport: 1 
+rolling stones: 1 
+rolls royce: 1 
+roman polanski: 1 
+romania: 1 
+royal opera house: 1 
+royal shakespeare company: 1 
+ruben loftus cheek: 1 
+rugby union: 1 
+russia: 3 
+ryanair: 1 
+safari and wildlifeholidays: 1 
+sahara force india f1 team: 1 
+salad: 1 
+sao paulo: 1 
+sauber f1 team: 1 
+savings: 1 
+school sport: 1 
+schools: 1 
+science: 2 
+scotland: 4 
+scottish national party (snp): 1 
+sean penn: 1 
+sebastain vettel: 1 
+sebastian kola: 1 
+serious fraud office: 1 
+sex: 7 
+sexism: 1 
+share prices: 1 
+shooting: 1 
+shopping: 1 
+silvio berlusconi: 1 
+smash the system: 1 
+snp: 1 
+social care: 1 
+social exclusion: 1 
+social news: 5 
+society: 13 
+software: 2 
+soldier: 1 
+south africa cricket team: 1 
+south korea: 1 
+south london: 1 
+south sudan: 1 
+southampton fc: 1 
+spain: 1 
+special reports investing: 1 
+sport: 22 
+sports direct international: 1 
+stage: 5 
+stephen sondheim: 1 
+stoke city fc: 1 
+stuart broad: 1 
+style: 4 
+suicide: 3 
+sunderland afc: 1 
+supermarkets: 1 
+surgery scars: 1 
+surveillance: 1 
+sustainable development: 1 
+swansea city afc: 1 
+sxsw: 1 
+syria: 12 
+syrian civil war: 1 
+syrian peace talks: 1 
+tampon: 1 
+tax: 2 
+technology: 9 
+ted cruz: 1 
+teens: 1 
+television: 8 
+television and radio: 4 
+television industry: 1 
+television personality: 1 
+tennis: 2 
+terror: 2 
+terrorism: 1 
+the apprentice: 2 
+the budget: 1 
+the courtauld institute of art: 1 
+the filter: 1 
+the trump organization: 1 
+theatre: 4 
+there will be blood: 1 
+theresa may: 1 
+things: 2 
+thinktanks: 1 
+thom yorke: 1 
+tibet: 1 
+tim farron: 1 
+top gear: 3 
+tottenham hotspur: 1 
+tottenham hotspur fc: 2 
+toyota: 1 
+transfer window: 1 
+travel: 10 
+trump entertainment resorts: 1 
+turkey: 3 
+turkey capital: 1 
+twenty 20: 4 
+twenty20: 1 
+twitter: 6 
+uk economy: 1 
+uk news: 26 
+uk politics: 5 
+uk property: 1 
+uk science: 1 
+unicef: 1 
+united kingdom: 1 
+united nations: 1 
+united states: 1 
+us army: 1 
+us elections 2016: 1 
+us gun control: 1 
+us news: 3 
+us politics: 2 
+van conversion: 1 
+vat: 1 
+vegetables: 1 
+video: 7 
+vine: 2 
+vladimir nabokov: 1 
+vladimir putin: 1 
+volkswagen: 2 
+volkswagen commercial vehicle: 1 
+vw: 1 
+vw camper van: 1 
+vw van: 1 
+vwcv: 1 
+war: 3 
+water: 4 
+watford fc: 1 
+wellbeing: 1 
+west bromwich albion fc: 1 
+west ham united: 1 
+west ham united fc: 1 
+west indies cricket team: 1 
+what to eat now: 1 
+what to watch: 2 
+white hart lane: 1 
+wildlife: 2 
+william shakespeare: 2 
+windows: 1 
+windows 10: 1 
+wirecopy: 3 
+women: 9 
+work and careers: 1 
+world news: 28 
+world twenty20: 1 
+wwf: 1 
+young people: 1 
+youtube: 1 

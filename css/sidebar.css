@@ -1,0 +1,197 @@
+.fullscreen-bg {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+    z-index: -100;
+}
+
+.fullscreen-bg__video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+div#page-content-wrapper {
+  width: 80%
+}
+
+span.highlight {
+  color: white;
+  background-color: black;
+}
+
+div#sidebar-wrapper {
+  z-index: 1000;
+  color: #fff;
+  background-color: rgba(0,0,0,0.5);
+  position: fixed;
+  right: 0;
+  top: 0;
+  border-left: 1px black solid;
+  height: 100%;
+  display: block;
+}
+
+#sidebar-wrapper div{
+  list-style-type: none;
+  display: block;
+  border: 1px black solid;
+  margin: 5px;
+  padding: 10px;
+}
+
+div#video-selector {
+  position: fixed;
+  left: 0;
+  top: 25vh;
+}
+
+div.anonymous-person {
+  background-image: url('/../assets/images/anonymous-silhouette.jpg');
+  background-size: cover;
+  text-align: center;
+  display: block;
+  border-radius: 50%;
+  margin: 5px;
+  width: 60px;
+  height: 60px;
+}
+
+div#niko {
+  background-image: url('/../assets/images/mockImages/nikobw.jpeg');
+  background-size: cover;
+}
+
+div#niko:hover {
+  background-image: url('/../assets/images/mockImages/niko.jpg');
+  background-size: cover;
+}
+
+div#iman {
+  background-image: url('/../assets/images/mockImages/imanbw.jpeg');
+  background-size: cover;
+}
+
+div#iman:hover {
+  background-image: url('/../assets/images/mockImages/iman.jpg');
+  background-size: cover;
+}
+
+div#joseph {
+  background-image: url('/../assets/images/mockImages/josephbw.jpeg');
+  background-size: cover;
+}
+
+div#joseph:hover {
+  background-image: url('/../assets/images/mockImages/joseph.jpg');
+  background-size: cover;
+}
+
+div#ruyue {
+  background-image: url('/../assets/images/mockImages/ruyuebw.jpeg');
+  background-size: cover;
+}
+
+div#ruyue:hover {
+  background-image: url('/../assets/images/mockImages/ruyue.jpg');
+  background-size: cover;
+}
+
+div#yuqing {
+  background-image: url('/../assets/images/mockImages/yuqingbw.jpeg');
+  background-size: cover;
+}
+
+div#yuqing:hover {
+  background-image: url('/../assets/images/mockImages/yuqing.jpg');
+  background-size: cover;
+}
+
+div#video-control {
+  background-image: url('/../assets/images/pause16.png');
+  /* attribution for this image --- <div>Icon made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed under <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a></div> */
+  background-size: cover;
+}
+
+div#video-control:hover {
+  background-image: url('/../assets/images/pause17.png');
+  /* attribution for this image --- <div>Icon made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed under <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a></div> */
+  background-size: cover;
+}
+
+div.anonymous-person:hover{
+  cursor: pointer;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  min-width: 100%;
+  min-height: 50px;
+}
+
+.btn {
+  background-color: black;
+  width: 100%;
+  height: 100%;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+  color: gray;
+}
+
+a:hover {
+    color: red;
+}
+
+span.price {
+  font-size: 1.5em;
+}
+
+.blink {
+animation-duration: 1s;
+animation-name: blink;
+animation-iteration-count: infinite;
+animation-timing-function: steps(2, start);
+}
+
+@keyframes blink {
+    80% {
+        visibility: hidden;
+    }
+}
+
+
+.bubble{
+  margin-left: 10%;
+  width:50%;
+    background-color: #F2F2F2;
+    border-radius: 5px;
+    box-shadow: 0 0 6px #B2B2B2;
+    display: inline-block;
+    padding: 10px 18px;
+
+    vertical-align: top;
+}
+
+
+
+button{
+  margin-left: 30px;
+  margin-top: 10%;
+
+}

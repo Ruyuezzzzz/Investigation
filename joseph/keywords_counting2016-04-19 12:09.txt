@@ -1,0 +1,636 @@
+aaron ramsey: 2 
+abc: 1 
+aberdeen: 1 
+academy of fine arts verona: 2 
+accident: 2 
+accidental email: 2 
+addiction: 2 
+advertising: 2 
+afghanistan: 3 
+africa: 2 
+aftershocks: 2 
+agriculture: 1 
+alaska: 1 
+albert einstein: 1 
+alibaba: 1 
+alice newbold: 1 
+all you can eat fries: 2 
+allister heath: 1 
+amazon: 3 
+amazon prime: 2 
+amazon prime video: 1 
+amazon.com: 1 
+amber heard: 2 
+ambrose evans pritchard: 2 
+americas: 6 
+andrew chandler: 2 
+andrew michael hurley: 1 
+andros townsend: 2 
+angie nwandu: 2 
+animal welfare: 1 
+animals: 1 
+anti: 2 
+antibiotics: 1 
+apple: 3 
+archaeology: 3 
+architecture: 1 
+arrest: 2 
+arsenal fc: 5 
+arsene wenger: 2 
+art: 3 
+art and design: 4 
+asia: 2 
+asia pacific: 2 
+asteroids: 1 
+aston villa fc: 1 
+athletics: 1 
+audi: 1 
+aunews: 2 
+australia: 3 
+australia news: 1 
+australian: 2 
+autism: 2 
+automotive industry: 2 
+avocados: 1 
+awards and prizes: 1 
+baking: 1 
+bakla: 2 
+barack obama: 3 
+barnaby joyce: 2 
+bataclan: 2 
+bbc: 1 
+beauty: 3 
+beauty tips: 2 
+benefits: 2 
+beyonce: 2 
+bffeatures: 2 
+biodiversity: 1 
+biography books: 1 
+biology: 1 
+black confederates: 2 
+blogging: 1 
+bmw: 1 
+boko haram: 2 
+bonds: 1 
+books: 7 
+boxing: 1 
+brasil: 2 
+brazil: 4 
+brazil impeachment: 2 
+breakfast: 1 
+brexit: 8 
+bridal fashion: 1 
+bristol: 1 
+bruce springsteen: 1 
+bt plc: 1 
+bullying: 1 
+business: 14 
+business club: 2 
+cake: 3 
+california: 1 
+cambridge: 1 
+cameroon: 2 
+camorra: 2 
+canada: 2 
+cancer: 2 
+cars: 5 
+catastrophe tv sitcom: 1 
+celebrities: 2 
+celebrity: 2 
+celebrity hair: 1 
+celebrity injunctions: 2 
+celebrity style: 1 
+cesc fabregas: 1 
+champions league: 4 
+charles darwin: 1 
+chelsea fc: 3 
+chelsea flower show: 2 
+child killed: 2 
+china: 3 
+chinese student suicide: 2 
+chinese student verona: 2 
+chocolate: 2 
+chris grayling: 2 
+christian eriksen: 2 
+civil war: 2 
+claudio ranieri: 4 
+climate change: 1 
+coachella: 4 
+cocoa: 1 
+comedians: 1 
+comedy: 3 
+comment: 25 
+commercial property: 1 
+commercial radio: 1 
+communities: 2 
+companies: 1 
+conservatives: 5 
+contraception and family planning: 1 
+cop 21: un climate change conference | paris: 1 
+corfu: 2 
+cory bernardi: 1 
+countryside: 1 
+court of appeal: 4 
+cricket: 1 
+crime: 5 
+crispin blunt: 1 
+cte: 2 
+culture: 26 
+culture obituaries: 2 
+dairy industry: 1 
+data and computer security: 1 
+david cameron: 1 
+david de gea: 1 
+defence policy: 1 
+dele alli: 1 
+deliciously ella: 1 
+dementia: 2 
+department of energy climate change: 1 
+department of health: 1 
+depression: 3 
+digital media: 2 
+dilma rousseff: 4 
+dimitri payet: 1 
+dinosaurs: 1 
+disability: 2 
+doctors: 2 
+dogs: 1 
+dominic grieve: 1 
+donald trump: 2 
+drugs: 2 
+duchess of cambridge: 2 
+earnings: 2 
+earthquake: 4 
+earthquakes: 3 
+economy: 3 
+ecuador: 4 
+education: 7 
+education policy: 2 
+education top stories: 2 
+edward snowden: 2 
+eggs: 3 
+election: 2 
+emerging markets: 1 
+energy: 2 
+energy industry: 1 
+england cricket team: 1 
+entertainment: 7 
+environment: 7 
+equal pay: 1 
+equality: 2 
+equities: 2 
+essen: 4 
+eu: 2 
+eu referendum: 14 
+europa: 2 
+europa league: 2 
+europe: 10 
+european commission: 1 
+european union: 8 
+eurozone: 1 
+evolution: 1 
+executive pay and bonuses: 1 
+exercise: 2 
+exit: 2 
+expat education and family: 2 
+expat money: 1 
+fa cup: 2 
+facebook: 7 
+family: 1 
+family holidays: 7 
+farming: 3 
+fashion: 7 
+features: 1 
+female genital mutilation (fgm): 1 
+feminism: 1 
+fiction: 1 
+film: 2 
+fitness: 1 
+flooding: 4 
+flowers: 2 
+food: 1 
+food and drink: 12 
+food and drink industry: 1 
+football: 10 
+foreign policy: 1 
+fruit and vegetables: 1 
+ftse 100: 1 
+fund management: 2 
+fund tips: 1 
+funny: 1 
+galleries: 2 
+gallery: 1 
+game of thrones: 4 
+game shows: 1 
+gaming: 1 
+gardening: 2 
+gardening advice: 1 
+gardening gifts: 1 
+gardens to visit: 1 
+gchq: 2 
+george osborne: 10 
+germany: 3 
+global climate talks: 1 
+global development: 1 
+global economy: 1 
+global radio: 1 
+good news: 1 
+google: 1 
+greece: 2 
+greenhouse gas emissions: 1 
+gurdwara nanaksar: 2 
+gwyneth paltrow: 1 
+gymnastics: 1 
+hacking: 1 
+hair: 2 
+happiness: 2 
+harley davidson: 1 
+harry kane: 4 
+harvard university: 2 
+hbo: 1 
+hbos: 1 
+head injuries: 2 
+health: 10 
+health policy: 1 
+healthy eating: 2 
+healthy food: 2 
+hector bellerin: 1 
+heritage: 1 
+heroin: 2 
+heroin overdose: 2 
+higher education: 1 
+history: 1 
+history of science: 1 
+hm treasury: 1 
+holyrood 2016: 4 
+home office: 1 
+honda: 1 
+horror: 1 
+hospitals: 1 
+hotel: 1 
+hotels: 1 
+house of commons: 1 
+houseplants: 1 
+housing: 4 
+housing benefit: 2 
+houston: 3 
+illustration: 1 
+immigration: 2 
+independent schools: 1 
+india: 2 
+instagram: 4 
+interest rates: 1 
+internet: 3 
+internet of things: 1 
+interpol: 2 
+investing: 2 
+investment trusts: 1 
+iran: 1 
+iraq: 1 
+isas: 1 
+islam: 1 
+islamic state: 6 
+italy: 3 
+jaguar: 1 
+james kirkup: 1 
+jamie oliver: 1 
+jamie vardy: 6 
+japan: 4 
+jay z: 2 
+jazz: 1 
+jean michel jarre: 2 
+jean paul sartre: 1 
+jennifer lopez: 1 
+jeremy corbyn: 3 
+jeremy corbyns labour: 2 
+jeremy hunt: 1 
+jobs and employment: 3 
+johnny depp: 4 
+jonathan moss: 2 
+jp morgan: 1 
+justin baker rhett: 2 
+justin trudeau: 1 
+kabul: 2 
+kanye west: 4 
+kate middleton: 2 
+katy young: 1 
+kenya: 1 
+kesha: 1 
+kim kardashian: 1 
+king power stadium: 2 
+kuwait: 1 
+labour: 5 
+labour in: 2 
+lauren davidson: 1 
+law: 2 
+leicester: 2 
+leicester city: 1 
+leicester city fc: 5 
+leicestershire: 1 
+lemonade: 2 
+letters: 1 
+lgbt: 2 
+lgbt rights: 1 
+liberal democrats: 1 
+liberal party: 1 
+libya: 3 
+life: 2 
+life and style: 9 
+lifestyle: 2 
+local elections: 1 
+local government: 1 
+local politics: 1 
+london: 10 
+london mayoral election 2016: 2 
+london politics: 1 
+long term test: 1 
+lost cause: 2 
+louisa symington mills: 2 
+mafia: 2 
+manchester: 2 
+manchester united fc: 3 
+marcus rashford: 2 
+margaret thatcher: 1 
+marine life: 1 
+marion dakers: 1 
+marissa mayer: 1 
+marriage: 1 
+martin chilton: 2 
+maya vidon white: 2 
+mayoral elections: 1 
+mazda: 1 
+mcdonalds. mcdonalds fries: 2 
+media: 7 
+media and telecoms: 3 
+media law: 2 
+melanoma: 1 
+men: 5 
+mental health: 2 
+met police: 2 
+mexico: 2 
+michael fallon: 2 
+michael gove: 2 
+michelle obama: 2 
+middle east: 3 
+middle east and north africa: 2 
+migration: 1 
+mikel arteta: 2 
+miley cyrus: 1 
+military obituaries: 2 
+mitchell stern: 2 
+mobile phones: 1 
+monaco: 1 
+monarchy: 1 
+money: 6 
+muisne: 2 
+music: 5 
+music video: 2 
+musicals: 1 
+national newspapers: 1 
+natural disasters and extreme weather: 5 
+netflix: 4 
+new jersey police: 2 
+new zealand: 2 
+newcastle: 2 
+newcastle united fc: 2 
+news: 20 
+nhs: 3 
+nigel farage: 2 
+nigeria: 1 
+nintendo: 1 
+nissan: 1 
+north carolina: 1 
+north korea: 1 
+nsa: 1 
+oceans: 1 
+oil: 3 
+oil price: 1 
+oita: 2 
+olivier giroud: 2 
+olympic games: 1 
+olympic games 2016: 1 
+online dating: 1 
+opinion: 7 
+oxford: 1 
+pacific ocean: 2 
+paris: 2 
+paris climate agreement: 1 
+pearl jam: 1 
+pensions and retirement: 1 
+penwortham road: 2 
+per mertesacker: 2 
+pesticides: 1 
+petr cech: 2 
+peugeot: 1 
+philip hammond: 1 
+philippines: 4 
+photography: 4 
+picture galleries: 2 
+plants: 1 
+police: 4 
+politics: 16 
+pollution: 2 
+pop and rock: 1 
+portal: 13 
+portugal: 1 
+premier league: 9 
+primary schools: 2 
+prince william: 4 
+princess diana: 2 
+prisons and probation: 1 
+privacy: 4 
+privacy and the media: 1 
+property: 2 
+pulitzer prize: 1 
+pupil behaviour: 1 
+queen elizabeth ii: 1 
+quito: 2 
+radio industry: 1 
+rape: 2 
+reading: 1 
+recipe: 1 
+refugee crisis: 5 
+relationships: 2 
+religion: 2 
+renault: 2 
+renting property: 2 
+reproductive rights: 1 
+reproductive rights (developing countries): 1 
+republicans: 1 
+resolution foundation: 2 
+restaurants: 4 
+retail and consumer industry: 1 
+retail industry: 2 
+rhs: 1 
+riyad mahrez: 3 
+road safety: 1 
+roberto martinez: 2 
+rodrigo duterte: 2 
+roman villa: 2 
+rome: 1 
+ross barkley: 2 
+royal navy: 2 
+rudyard kipling: 1 
+russia: 3 
+ryan bertrand: 1 
+sadiq khan: 2 
+samantha power: 2 
+saudi arabia: 3 
+savings accounts: 1 
+school admissions: 2 
+schools: 3 
+science: 8 
+scotland: 3 
+sculpture: 1 
+seat: 1 
+secondary education: 2 
+secondary schools: 1 
+seema malhotra: 2 
+self driving cars: 2 
+sex: 4 
+sex and the city: 1 
+sexual health: 1 
+shade room: 2 
+share prices: 2 
+share tips: 1 
+sikh: 2 
+silas chandler: 2 
+simone de beauvoir: 1 
+sir martin sorrell: 1 
+sleep: 2 
+smartphones: 1 
+snapchat: 3 
+social exclusion: 1 
+social housing: 1 
+social media: 4 
+social networking: 2 
+social news: 14 
+society: 12 
+south america: 2 
+south and central asia: 1 
+southampton: 2 
+southampton fc: 3 
+space: 6 
+spoken word: 1 
+sport: 16 
+st josephs missouri: 2 
+stage: 2 
+stamford bridge: 2 
+stoke: 2 
+stoke city: 1 
+stronger in: 2 
+student life: 1 
+students: 1 
+style: 2 
+subaru: 1 
+sue: 2 
+sugar: 3 
+sugar tax: 1 
+supermarkets: 1 
+supreme court: 3 
+swansea: 2 
+switzerland: 1 
+sydney: 1 
+syria: 5 
+taliban: 3 
+tax in retirement: 1 
+teaching: 1 
+technology: 8 
+telecoms: 1 
+television: 11 
+television and radio: 3 
+television industry: 1 
+temblor: 2 
+terrorism: 1 
+tesco: 1 
+texas: 2 
+the chandler boys: 2 
+the duchess of cambridge: 1 
+the filter: 2 
+the life of pablo: 2 
+the queen: 1 
+the simpsons: 1 
+the sun: 1 
+theatre: 3 
+theo walcott: 2 
+therapy: 1 
+things: 1 
+threesome: 1 
+tibet: 1 
+tidal: 2 
+tinder: 4 
+toby alderweireld: 1 
+tony pulis: 2 
+tooting: 2 
+tottenham hotspur: 1 
+tottenham hotspur fc: 1 
+trafficking: 2 
+transgender: 2 
+transgender call center workers: 2 
+travel: 17 
+travel news: 1 
+treasury: 2 
+tremor: 2 
+tsunami: 2 
+turkey: 1 
+twitter: 4 
+uk criminal justice: 1 
+uk economy: 3 
+uk news: 36 
+uk politics: 20 
+uk science: 2 
+united arab emirates: 1 
+united nations: 2 
+university challenge: 1 
+university education: 1 
+university funding: 1 
+university of reading: 1 
+us election: 1 
+us elections 2016: 1 
+us news: 8 
+us politics: 2 
+us television industry: 1 
+usa: 9 
+usgs: 2 
+vauxhall: 1 
+venezuela: 1 
+verona police department new jersey: 2 
+video: 2 
+voice recognition: 1 
+volcanoes: 1 
+volkswagen: 1 
+volvo: 1 
+vote leave: 4 
+vsd: 2 
+waitrose: 1 
+wardrobe soloutions: 2 
+waste: 2 
+weather: 1 
+weddings: 1 
+weird: 1 
+weird news: 2 
+wellbeing: 2 
+west end: 1 
+west ham united fc: 1 
+what to watch: 1 
+wheat: 1 
+wildlife: 2 
+william hague: 1 
+william shakespeare: 2 
+windsor: 1 
+wine: 2 
+wirecopy: 2 
+women: 9 
+work: 3 
+work and careers: 1 
+work and salary: 2 
+world news: 33 
+world war two: 2 
+wpp: 2 
+yahoo: 1 
+yoga: 1 
+young people: 3 
+youtube: 1 
+yufu: 2 
+yufuin: 2 
+zac goldsmith: 2 

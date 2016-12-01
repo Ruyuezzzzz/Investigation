@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href='https://fonts.googleapis.com/css?family=Candal' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="../css/animate.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+  <link href="../css/hover-min.css" rel="stylesheet">
+  <link rel="stylesheet" href="../css/style.css">
+  <link rel="stylesheet" href="../css/respstyle.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+  <script type="text/javascript" src="js/chart.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+
+
+
+  <style>
+    body {
+      background-color: white;
+      background-image: none;
+    }
+
+    h1 {
+      color: rgb(0,0,0);
+      padding-top: 0;
+    }
+
+    h3 a, h3 a:hover, h3 a:active, h3 a:visited {
+      color: rgb(100,100,100);
+    }
+
+    div.keyword {
+      font-family: Helvetica, Arial, sans-serif;
+      float: left;
+      margin: 5px;
+      padding: 5px;
+      border-radius: 4px;
+      color: white;
+      opacity:0;
+      transition: opacity 0.4s ease-in;
+    }
+
+    div.keyword a {
+      color:white;
+      text-decoration: none;
+    }
+    div.keyword a:hover {
+      color:white;
+      text-decoration: underline;;
+    }
+
+    div#keyword-container {
+      margin: 0;
+      padding: 1em;
+    }
+
+    div#empty-space {
+      clear: both;
+    }
+    div#article-container {
+      margin: 0;
+      padding: 1em;
+    }
+
+    div#inbox {
+      max-width: 100%;
+      border: 1px black solid;
+      border-radius: 4px;
+      padding: 20px;
+    }
+
+    p#para {
+      color: black;
+      font-size: 1em;
+      margin: 0;
+      padding: 0;
+    }
+  </style>
+</head>
+<body>
+  <div id="keyword-container">
+    <h1>Keywords!</h1>
+    <div id="keywords"></div>
+  </div>
+  <div id="empty-space"></div>
+  <div id="article-container">
+    <div id="inbox">
+      <p id="para"></p>
+      <ul id="keywords-list"></ul>
+      <a id="source-link"></a>
+    </div>
+    <input type="button" value="next" onclick="skipAhead(cardParas)">
+  </div>
+  <h3><a href="../index.html">Home</a></h3>
+</body>
+<script>
+
+
+//Keyword related stuff
+var cardParas = []
+
+function printStuff(keyword) {
+  console.log("printStuff")
+  searchTheDeck(keyword)
+}
+
+
+function searchTheDeck(keyword) {
+  cardParas.length = 0
+  count = 0
+  var xhttp = new XMLHttpRequest();
+  xhttp.open("GET", "cards.json", false);
+  xhttp.send();
+
+  cards = JSON.parse(xhttp.responseText)
+  console.log(cards.cards)
+
+  for(i = 0; i < cards.cards.length; i++) {
+    a = cards.cards[i].keywords.indexOf(keyword)
+    if(a >= 0) {
+      cardParas.push(cards.cards[i])
+    }
+  }
+  console.log(cardParas.length)
+  skipAhead(cardParas);
+
+};
+
+function showObject(obj) {
+  var result = "";
+
+  for (var p in obj) {
+    if( obj.hasOwnProperty(p) ) {
+      var pString = p.toString();
+      var paragraph = document.getElementById('keywords');
+      var span = document.createElement('div');
+      span.setAttribute('class', 'keyword')
+      var link = document.createElement('a')
+      span.setAttribute("onclick", "printStuff(\"" + pString + "\")")
+      link.setAttribute("href", "#")
+      //link.setAttribute("href", "http://www.google.com/search?q=" + pString.replace(" ", "+") + "&tbm=nws")
+      //link.setAttribute("target", "_blank")
+      link.innerHTML = pString
+      var fontSize = 255 - (obj[p] * 24);
+      span.appendChild(link)
+      //span.style.font = fontSize + "px Helvetica,sans-serif";
+      span.style.backgroundColor = "rgba(" + fontSize + "," + fontSize + "," + fontSize + ", 1)"
+      paragraph.appendChild(span);
+      result += p + " , " + obj[p] + "\n";
+      //console.log(p);
+      //console.log(fontSize);
+    };
+  };
+};
+
+keywordRequest = new XMLHttpRequest();
+keywordRequest.open('GET', 'result.json', false);
+keywordRequest.send();
+
+data = JSON.parse(keywordRequest.responseText);
+//var stuffParas = []
+
+showObject(data)
+divs = document.getElementsByClassName('keyword')
+
+window.onload = function () {
+
+  for(i = 0; i < divs.length; i++) {
+    divs[i].style.opacity = 1;
+  }
+}
+//article related stuff
+
+count = 0
+
+// function firstSkip() {
+//   para = document.getElementById("para");
+//   text = document.createTextNode(cardParas[count].content);
+//   a = document.getElementById("source-link");
+//   keywords = document.getElementById("keywords-list")
+//   link = document.createTextNode(cardParas[count].source)
+//   a.appendChild(link)
+//   a.setAttribute("href", cardParas[count].url)
+//   para.appendChild(text);
+// }
+
+function skipAhead(cardParas) {
+  if(count < cardParas.length) {
+  para = document.getElementById("para");
+  text = document.createTextNode(cardParas[count].content);
+  a = document.getElementById("source-link");
+  keywords = document.getElementById("keywords-list")
+  link = document.createTextNode(cardParas[count].source)
+  a.appendChild(link)
+  a.setAttribute("href", cardParas[count].url)
+  para.appendChild(text);
+
+  keywords.innerHTML = ""
+  a.innerHTML = (cardParas[count].source)
+  a.setAttribute("href", cardParas[count].url)
+  a.setAttribute("target", "_blank")
+  para.innerHTML = cardParas[count].content
+
+  for (i=0; i<cardParas[count].keywords.length - 1; i++) {
+    listItem = document.createElement('li')
+    listItem.innerHTML = cardParas[count].keywords[i]
+    keywords.appendChild(listItem)
+  }
+  count += 1
+} else {
+  return
+}
+};
+
+</script>
+</html>

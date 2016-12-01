@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width">
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+  <script src="/js/some.js"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+  <link rel="stylesheet" href="/css/sidebar.css" />
+  <title>Video Pages</title>
+</head>
+<body style="background-color: rgb(0,0,0); margin: 0;">
+  <div class="container">
+    <div class="fullscreen-bg">
+      <video id="video-content" autoplay class="fullscreen-bg__video">
+        <source src="/assets/videos/mock_ivs/ent002ruy.mp4" type="video/mp4">
+          Your Browser sucks!
+        </video>
+      </div>
+      <div class="row">
+        <div id="video-selector" class="col-md-1">
+          <div class="anonymous-person" id="video-control" onclick="return pauseVid()"></div>
+          <div id="iman" title="Iman"class="anonymous-person" onclick="return changeVid('ent','003','ima')"></div>
+          <div id="joseph" title="Joseph" class="anonymous-person" onclick="return changeVid('ent','002','jos')"></div>
+          <div id="niko" title="Niko" class="anonymous-person" onclick="return changeVid('ent','002','nik')"></div>
+          <div id= "ruyue" title="Ruyue" class="anonymous-person" onclick="return changeVid('ent','002','ruy')"></div>
+          <div id="yuqing" title="Yuqing" class="anonymous-person" onclick="return changeVid('ent','002','yuq')"></div>
+        </div>
+        <div id="page-content-wrapper" class="col-md-9">
+          <h2><span class="highlight">What reasons do you think contribute to the lack of diversity in Oscars<span class="blink">?</span></span></h2>
+        </div>
+        <div id="sidebar-wrapper" class="col-md-3">
+          <h2><span id="side-bar-toggle">Facts and Figures</span></h2>
+          <div>Oscar voters? Less characters for non-white actors?</div>
+          <div>and some information about something else</div>
+          <div>yet more interesting information about something or other</div>
+        </div><!-- #sidebar-wrapper -->  
+      </div><!-- .container -->
+
+      <footer class="row"><!-- #footer-links -->
+        <div class="container">
+          <div class="col-md-2">
+            <button class="btn" type="button" onclick="stopEverything()"><a href="ent001.html">Oscars too white</button>
+          </div>
+          <div class="col-md-2">
+            <button class="btn" type="button" onclick="stopEverything()"><a href="ent002.html">Lack of diversity</button>
+          </div>
+          <div class="col-md-2">
+            <button class="btn" type="button" onclick="stopEverything()"><a href="ent003.html">Favorite films</button>
+          </div>
+          <div class="col-md-2">
+            <button class="btn" type="button" onclick="stopEverything()"><a href="index.html">Home</button>
+          </div>
+        </div>
+      </footer><!-- #footer-links -->
+
+      </body>
+      </html>

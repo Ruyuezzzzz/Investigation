@@ -1,0 +1,35 @@
+
+<div class="container">
+
+  <div id="question">
+    <h2><span class="highlight"><span id="question-text">Do you know the average rent or house price in your area</span><span class="blink">?</span></span></h2>
+  </div>
+
+  <div class="fullscreen-bg">
+    <video id="video-content" autoplay class="fullscreen-bg__video">
+      <source type="video/mp4">
+        Your Browser sucks!
+    </video>
+  </div>
+
+  <div class="row">
+    <div id="video-selector" class="col-md-1">
+      <div class="anonymous-person" id="video-control" onclick="return pauseVid()"></div>
+      <div id="iman" title="Iman" class="anonymous-person" onclick="return changeVid(user_choice1, user_choice2, 'iman')"> </div>
+      <div id="joseph" title="Joseph" class="anonymous-person" onclick="return changeVid(user_choice1, user_choice2, 'joseph')"></div>
+      <div id="niko" title="Niko" class="anonymous-person" onclick="return changeVid(user_choice1, user_choice2, 'niko')"></div>
+      <div id= "ruyue" title="Ruyue" class="anonymous-person" onclick="return changeVid(user_choice1, user_choice2, 'ruyue')"></div>
+      <div id="yuqing" title="Yuqing" class="anonymous-person" onclick="return changeVid(user_choice1, user_choice2, 'yuqing')"></div>
+    </div>
+  </div>
+
+  <div id="sidebar-wrapper" class="col-md-3">
+    <h3><span id="side-bar-toggle">Facts and Figures</span></h3>
+  </div><!-- #sidebar-wrapper -->
+</div><!-- .container -->
+
+<footer class="row"><!-- #footer-links -->
+  <div class="col-md-2">
+    <input class="btn" type="button" onclick="stopEverything(); location.href='index.html';" value="Home"/>
+  </div>
+</footer><!-- #footer-links -->

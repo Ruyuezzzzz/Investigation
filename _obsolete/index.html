@@ -1,0 +1,161 @@
+<html>
+<head>
+<link href='https://fonts.googleapis.com/css?family=Candal' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="css/animate.css">
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "9e1e1b8b-52fe-45d9-a6f6-d4aca6c3a324", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+<style>
+body{background-image:url('assets/30459151.jpg');}
+.backgroundcover {
+    background-image: url("assets/overlay-pattern.png") ;
+    background-repeat: repeat;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+	opacity:0.7;
+	z-index:-1;
+}
+h1{
+  font-size: 40px;
+  padding-top: 50px;
+	text-align: center;
+	color: white;
+	font-family: 'Candal', sans-serif;
+
+}
+.buttons{padding-left: 275px;
+}
+.button {
+  display: inline-block;
+  width: 25%;
+  height: 15%;
+  padding: .24rem;
+  border: none;
+  margin: 1rem auto;
+  font-family: 'Candal', sans-serif;
+  font-size: 1.3rem;
+  background: rgba(255,255,255,0.23);
+  color: #fff;
+  border-radius: 3px;
+  cursor: pointer;
+  opacity: 0.8;
+  transition: .3s background;
+  }
+
+#pol{margin-top: 70px;
+  margin-right: 90px;
+margin-left:-110px;}
+#eco{margin-right: 90px;
+}
+
+.Button:hover {
+	color: rgba(255, 255, 255, 0.99);
+    text-shadow: 0px 0px 2px rgba(255, 255, 255, 0.99), 0px 0px 4px rgba(255, 255, 255, 0.75);
+    border-color: rgba(255, 255, 255, 0.4);
+    box-shadow:
+      0 1px 0 0 rgba(255, 255, 255, 0.4) inset,
+      0 2px 6px rgba(0, 0, 0, 0.5),
+      0 10px rgba(0, 0, 0, 0.05) inset,
+      0 0 5px 2px rgba(255, 255, 255, 0.75),
+      0 0 10px 2px rgba(255, 255, 255, 0.75) inset;
+}
+.Button:active {
+	position:relative;
+	top:1px;
+}
+p{
+  font-family: 'PT Sans', sans-serif;
+  font-size: 24px;
+  color: white;
+  font-style: bold;
+  padding-left: 260px;
+
+}
+#sharebuttons{position:fixed;
+  padding-left: 530px;
+  padding-top:10px; }
+
+a{text-decoration: none;}
+
+p:hover, a:hover{color: rgba(255, 255, 255, 0.99);
+    text-shadow: 0px 0px 2px rgba(255, 255, 255, 0.99), 0px 0px 4px rgba(255, 255, 255, 0.75);}
+
+#questions {
+  margin-right: 20%;
+}
+</style>
+
+</head>
+<body>
+	<div class="backgroundcover"></div>
+<h1 class="animated shake">That&apos;s just like, your opinion, man</h1>
+<div class="buttons">
+<button id='pol' class="button" type="button">Politics</button>
+<button id='eco' class="button" type="button">Economy</button>
+<button id='ent' class="button" type="button">Entertainment</button>
+</div>
+<div id="questions">
+<a href="pol001.html"><p class="politics" id="ques1" ></p>
+<a href="pol002.html"><p class="politics" id="ques2" ></p>
+<a href="pol003.html"><p class="politics" id="ques3" ></p>
+<a href="eco001.html"><p class="economy" id="ques4" ></p>
+<a href="eco002.html"><p class="economy" id="ques5" ></p>
+<a href="eco003.html"><p class="economy" id="ques6" ></p>
+<a href="ent001.html"><p class="entertainment" id="ques7" ></p>
+<a href="ent002.html"><p class="entertainment" id="ques8" ></p>
+<a href="ent003.html"><p class="entertainment" id="ques9" ></p>
+
+</div>
+
+<footer>
+  <div id="sharebuttons">
+<span class='st_sharethis_large' displayText='ShareThis'></span>
+<span class='st_facebook_large' displayText='Facebook'></span>
+<span class='st_twitter_large' displayText='Tweet'></span>
+<span class='st_email_large' displayText='Email'></span>
+</footer>
+</div >
+
+
+<script>
+ document.getElementById('pol').addEventListener("click", function() {
+  document.getElementById('ques4').innerHTML='';
+  document.getElementById('ques5').innerHTML='';
+  document.getElementById('ques6').innerHTML='';
+  document.getElementById('ques7').innerHTML='';
+  document.getElementById('ques8').innerHTML='';
+  document.getElementById('ques9').innerHTML='';
+	document.getElementById('ques1').innerHTML="1. Which EU countries receive the most asylum applications? ";
+  document.getElementById('ques2').innerHTML="2. In the UK, which nationalities do you think had the highest <br>number of applications?";
+  document.getElementById('ques3').innerHTML="3. What do you think is the outcome of these applications?";
+    })
+ document.getElementById('eco').addEventListener("click", function() {
+  document.getElementById('ques1').innerHTML='';
+  document.getElementById('ques2').innerHTML='';
+  document.getElementById('ques3').innerHTML='';
+  document.getElementById('ques7').innerHTML='';
+  document.getElementById('ques8').innerHTML='';
+  document.getElementById('ques9').innerHTML='';
+
+  document.getElementById('ques4').innerHTML="1. Do you know the average rental/market price for your area? <br>How do you think it compares with the average rental/market price in London?"
+  document.getElementById('ques5').innerHTML="2. Do you know the price of Brent Crude per barrel, can you pick the closest from these three?"
+  document.getElementById('ques6').innerHTML="3. Which country has the highest university tuition fees according to the OECD? ";
+    })
+   document.getElementById('ent').addEventListener("click", function() {
+    document.getElementById('ques1').innerHTML='';
+  document.getElementById('ques2').innerHTML='';
+  document.getElementById('ques3').innerHTML='';
+  document.getElementById('ques4').innerHTML='';
+  document.getElementById('ques5').innerHTML='';
+  document.getElementById('ques6').innerHTML='';
+    document.getElementById('ques7').innerHTML="1. Do you think that Oscars is too white?"
+    document.getElementById('ques8').innerHTML="2. What reasons do you think contribute to the lack of diversity in Oscars? "
+    document.getElementById('ques9').innerHTML="3. Will you be more likely to see a film with more diverse actors <br>and what is your favourite film last year? ";
+    })
+</script>
+</body>
+</html>

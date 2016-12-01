@@ -1,0 +1,18 @@
+{ "questions": {
+              "economy": {
+                "rental-prices": "Do you know the average rent or house price in your area?",
+                "transport-costs": "Do you know the current price of brent crude oil per barrel?",
+                "student-loans": "Which country's universities have the highest tuition fees?"
+                },
+              "politics": {
+                "refugee-crisis": "Which European (EU) countries receive the most asylum applications? Why?",
+                "asylum-seekers": "In the United Kingdom, which nationalities do you think had the highest number of applications? Why?",
+                "application-outcomes": "What do you think is the outcome for asylum seekers applications?"
+                },
+              "entertainment": {
+                "oscars": "Do you think that Oscars is too white?",
+                "diversity": "What reasons do you think contribute to the lack of diversity in Oscars?",
+                "films": "Will you be more likely to see a film with more diverse actors and what is your favorite film last year?"
+              }
+            }
+}

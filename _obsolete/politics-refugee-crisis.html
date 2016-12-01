@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width">
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+  <script src="/js/some.js"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+  <link rel="stylesheet" href="/css/sidebar.css" />
+  <title>Video Pages</title>
+</head>
+<body style="background-color: rgb(0,0,0); margin: 0;">
+  <div class="container">
+    <div class="fullscreen-bg">
+      <video id="video-content" autoplay class="fullscreen-bg__video">
+        <source src="/assets/videos/mock_ivs/pol001jos.mp4" type="video/mp4">
+          Your Browser sucks!
+        </video>
+      </div>
+      <div class="row">
+        <div id="video-selector" class="col-md-1">
+          <div class="anonymous-person" id="video-control" onclick="return pauseVid()"></div>
+          <div id="iman" title="Iman"class="anonymous-person" onclick="return changeVid('pol','001','ima')"></div>
+          <div id="joseph" title="Joseph" class="anonymous-person" onclick="return changeVid('pol','001','jos')"></div>
+          <div id="niko" title="Niko" class="anonymous-person" onclick="return changeVid('pol','001','nik')"></div>
+          <div id= "ruyue" title="Ruyue" class="anonymous-person" onclick="return changeVid('pol','001','ruy')"></div>
+          <div id="yuqing" title="Yuqing" class="anonymous-person" onclick="return changeVid('pol','001','yuq')"></div>
+        </div>
+        <div id="page-content-wrapper" class="col-md-9">
+          <h2><span class="highlight">Which European (EU) countries receive the most asylum applications? Why<span class="blink">?</span></span></h2>
+        </div>
+        <div id="sidebar-wrapper" class="col-md-3">
+          <h2><span id="side-bar-toggle">Facts and Figures</span></h2>
+          <div>
+            <p>Top 10 EU countries who receive the most asylum applications in 2015:</p>
+            <ul>
+              <li>Germany - 97,640</li>
+              <li>Hungary - 39,295</li>
+              <li>France - 19,945</li>
+              <li>Italy - 19,745</li>
+              <li>Sweden - 14,840</li>
+              <li>Austria - 13,425</li>
+              <li>United Kingdom - 9,285</li>
+              <li>Switzerland - 5,410</li>
+              <li>Belgium - 4,570</li>
+              <li>Bulgaria - 4,310</li>
+            </ul>
+          </div>
+
+        </div><!-- #sidebar-wrapper -->
+      </div><!-- .container -->
+<footer class="row"><!-- #footer-links -->
+  <div class="container">
+    <div class="col-md-2">
+      <button class="btn" type="button" onclick="stopEverything()"><a href="politics-refugee-crisis.html">Refugee Crisis</button>
+    </div>
+    <div class="col-md-2">
+      <button class="btn" type="button" onclick="stopEverything()"><a href="politics-asylum-seekers.html">Asylum Seekers</button>
+    </div>
+    <div class="col-md-2">
+      <button class="btn" type="button" onclick="stopEverything()"><a href="politics-application-outcomes.html">Application Outcomes</button>
+    </div>
+    <div class="col-md-2">
+      <button class="btn" type="button" onclick="stopEverything()"><a href="index2.html">Home</button>
+    </div>
+  </div>
+</footer><!-- #footer-links -->
+</body>
+</html>
